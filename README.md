@@ -1,11 +1,11 @@
 <div id= header align = "center">
-  <img src = "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" />
-  <h1 align = "center"> Hello there, Welcome to Diogene´s Github 👋</h1>
-  <h3 align = "left"> Soy analista de datos (Data analyst), especialista en la recolección, transformación y manejo de datos para APORTAR VALOR a las empresas y ayudar                         a tomar decisiones basadas en datos. Mi objetivo es mejorar la productividad de las empresas y guiarlas para lograr el máximo desempeño. Mi                               experiencia en estos 3 años se basa en los miles de datos que he analizado, así como entender las necesidades y problemas que se enfrentan las                           empresas para formular BUENAS PREGUNTAS y con los datos poder responderlas.
-  
- 
+  <img src = "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" />
+  <h1 align = "center"> Hola, Bienvenido a mi Github👋</h1>
+  <h3 align = "justify"> Soy analista de datos. Ayudo a empresas y pequeños negocios a explorar, analizar y tomar decisiones basada en datos. Mi objetivo es mejorar la      productividad de las empresas y guiarlas para lograr el máximo desempeño. Mi experiencia en estos 3 años se basa en los miles de datos que he analizado, así como        entender las necesidades y problemas que se enfrentan las empresas para formular BUENAS PREGUNTAS y con los datos poder responderlas. ¿Quieres conocer más? 
+   Contáctame o visita mi web diogenes-lugo-mycvpro.online.
  </h3>
-<a href = "https://img.shields.io/badge/linkedin-Go-blue" <a/>
+
+  
 </div>
 
 
