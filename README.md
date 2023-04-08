@@ -1,7 +1,7 @@
 <div id= header align = "center">
   <img src = "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="75" />
   <h1 align = "center"> ¡Bienvenido a mi Github! 👋</h1>
-  <h3 align="justify">Ayudo a empresas y pequeños negocios a explorar, analizar y tomar decisiones basada en datos. Mi objetivo es mejorar la productividad de las empresas y guiarlas para lograr el máximo desempeño. Mi experiencia en estos 3 años se basa en los miles de datos que he analizado, así como entender las necesidades y problemas que se enfrentan las empresas para formular BUENAS PREGUNTAS y con los datos poder responderlas. ¿Quieres conocer más? Contáctame o visita mi web diogenes-lugo-mycvpro.online.</h3>
+  <h3 align="justify">Ayudo a empresas y pequeños negocios a explorar, analizar y tomar decisiones basada en datos. Mi objetivo es mejorar la productividad de las empresas y guiarlas para lograr el máximo desempeño. Mi experiencia en estos 3 años se basa en los miles de datos que he analizado, así como entender las necesidades y problemas que se enfrentan las empresas para formular BUENAS PREGUNTAS y con los datos poder responderlas. ¿Quieres conocer más? Contáctame o visita mi Blog Web diogenes-lugo-mycvpro.online.</h3>
 
 
 <h3 align="left">Sigueme en redes:</h3>
