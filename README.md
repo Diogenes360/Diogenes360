@@ -1,7 +1,7 @@
 <div id= header align = "center">
   <img src = "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="75" />
   <h1 align = "center"> ¡Bienvenido a mi Github! 👋</h1>
-  <h3 align="justify">Ayudo a empresas y pequeños negocios a explorar, analizar y tomar decisiones basada en datos. Mi objetivo es mejorar la productividad de las empresas y guiarlas para lograr el máximo desempeño. Mi experiencia en estos 3 años se basa en los miles de datos que he analizado, así como entender las necesidades y problemas que se enfrentan las empresas para formular BUENAS PREGUNTAS y con los datos poder responderlas. </h3>
+  <h3 align="justify"> Mi objetivo es mejorar la productividad de las empresas y guiarlas para lograr el máximo desempeño. Durante los últimos 3 años, he adquirido experiencia en el análisis de miles de datos y en la comprensión de las necesidades y desafíos que enfrentan las empresas al formular preguntas relevantes y obtener respuestas útiles a través de los datos. </h3>
   
 <h4 align = "left"> - 👨‍💻 Proyectos en: diogenes-lugo-mycvpro.online </h4>
 <h4 align = "left"> - 📫 Contactame: diogeneslugo5@gmail.com </h4>
