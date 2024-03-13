@@ -3,8 +3,8 @@
   <h1 align = "center"> ¡Bienvenido a mi Github! 👋</h1>
   <h3 align="justify"> Mi objetivo es mejorar la productividad de las empresas y guiarlas para lograr el máximo desempeño. Durante los últimos 3 años, he adquirido experiencia en el análisis de miles de datos y en la comprensión de las necesidades y desafíos que enfrentan las empresas al formular preguntas relevantes y obtener respuestas útiles a través de los datos. </h3>
   
-<h4 align = "left"> - 👨‍💻 Proyectos en: diogenes-lugo-mycvpro.online </h4>
-<h4 align = "left"> - 📫 Contactame: diogeneslugo5@gmail.com </h4>
+<h4 align = "left"> - 👨‍💻 Proyectos / blog en: datavizzblog.com </h4>
+<h4 align = "left"> - 📫 Contactame: lugo.diogenes01@gmail.com </h4>
 
 
 <h3 align="left">Sigueme en redes:</h3>
